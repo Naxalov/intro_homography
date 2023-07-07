@@ -1,0 +1,5 @@
+# Library for image processing
+opencv-python
+Pillow
+# Library for data visualization
+matplotlib
